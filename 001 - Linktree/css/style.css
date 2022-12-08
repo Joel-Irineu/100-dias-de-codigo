@@ -5,8 +5,8 @@ body{
 }
 .container{
     max-width: 500px;
-    width:  80%;
-    margin: 60px auto;
+    width:  90%;
+    margin: 30px auto;
     padding: 20px 0px 20px 0px;
     background-color: #fff;
     display: flex;
@@ -18,7 +18,7 @@ body{
 .profile{
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 80%;
     margin: 0 auto;
     text-align: center;
     padding: 15px 0;
@@ -26,7 +26,7 @@ body{
 .profile-image{
     border-radius: 50%;
     max-width: 200px;
-    width: 80%;
+    width: 50%;
     align-self: center;
 }
 .profile h3{
@@ -66,7 +66,7 @@ body{
     padding: 20px;
     width: 100%;
     margin: 5px auto;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 500;
     text-decoration: none;
     color: #001F3F;
@@ -89,7 +89,7 @@ body{
 }
 
 .emphasis{
-    animation: changeBackgroundColor 5s infinite;
+    animation: changeBackgroundColor 3s infinite;
 }
 
 @keyframes changeBackgroundColor {

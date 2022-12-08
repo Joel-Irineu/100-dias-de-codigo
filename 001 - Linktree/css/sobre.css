@@ -1,0 +1,28 @@
+.body{
+    text-align: left;
+}
+h2{
+    font-size: 20px;
+    font-weight: 700;
+    color: #001F3F;
+    padding: 10px 0px;
+}
+p{
+    font-size: 18px;
+}
+ul{
+    padding-left: 20px;
+}
+li{
+    list-style: disc;
+    font-size: 18px;
+    line-height: 27px;
+}
+.highlighted{
+    color: #001F3F;
+    text-decoration: none;
+}
+.simple-highlighted{
+    font-weight: 600;
+    color: #262626;
+}
